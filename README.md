@@ -1,1 +1,1 @@
-# Part-1-OOP-Programming---JAVA---Inheritance-Design-Lab-
+In Eclipse, click File, then Open Projects from File System. For the import source, click Directory and select the Assignment3 folder. Hit finish. Then you can look at the source code from navigating the package explorer and opening the java files.
